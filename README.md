@@ -1,11 +1,8 @@
-# README
+# Espider Web Crawler
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a web crawler application. This application crawls E-Kantipur Website and retrives data from news page. Also it will expose an API with those data.
 
-Things you may want to cover:
-
-* Ruby version
+* Requirements
 
 * System dependencies
 
